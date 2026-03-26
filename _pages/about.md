@@ -1,15 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# About Me
+I am a Professor of Public Administration at the **University of Uyo**, Akwa Ibom State, Nigeria. My work focuses on the intersection of public policy, governance, and institutional reform within the Nigerian civil service.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am dedicated to advancing administrative excellence and exploring public policy frameworks that drive sustainable development and efficiency in public institutions.
+
+## Research Interests
+* **Public Policy Analysis:** Investigating implementation gaps in administrative processes.
+* **Civil Service Reform:** Enhancing performance and accountability in public institutions.
+* **Governance & Ethics:** Institutional frameworks for transparency in administration.
+
+## Academic Leadership
+With years of experience in higher education, I have mentored numerous scholars and led research initiatives aimed at improving the practical application of public administration theories in Nigeria.!
 
 A data-driven personal website
 ======
