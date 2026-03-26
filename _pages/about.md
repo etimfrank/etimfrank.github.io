@@ -1,35 +1,31 @@
 ---
 permalink: /
-title: ""
+About Me: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
-I am a Professor of Public Administration at the **University of Uyo**, Akwa Ibom State, Nigeria. My work focuses on the intersection of public policy, governance, and institutional reform within the Nigerian civil service.
+I am a Professor of Public Administration at the University of Uyo, Akwa Ibom State, Nigeria, where I have served as a faculty member since January 2008. I bring over two decades of rigorous scholarship, teaching, and public service to the fields of Political Science, Public Administration, and Development Studies.
 
-I am dedicated to advancing administrative excellence and exploring public policy frameworks that drive sustainable development and efficiency in public institutions.
+My academic trajectory spans multiple institutions and disciplines: I earned a B.Sc. from the University of Jos (1984), an M.Sc. from the University of Uyo (1997), a Ph.D. from the University of Calabar (2005), and a Postgraduate Diploma in Sustainable Development from the Hebrew University of Jerusalem (2011). This interdisciplinary training has shaped my scholarly engagement with politics, governance, and African development.
 
-## Research Interests
-* **Public Policy Analysis:** Investigating implementation gaps in administrative processes.
-* **Civil Service Reform:** Enhancing performance and accountability in public institutions.
-* **Governance & Ethics:** Institutional frameworks for transparency in administration.
+In addition to my academic responsibilities, I have held several leadership and service roles, including Acting Director of the Clement Isong Centre for Development Studies, membership of the University Senate, and appointment as an External Examiner at the University of Calabar. I also engage the public sphere as a commentator on Comfort and Atlantic FM Radio in Uyo, and have contributed to national policy discourse through appointments such as membership of the Governing Council of the Federal Polytechnic Ukana-Essien Udim and the Eminent Persons Group of the National Institute of Policy and Strategic Studies (NIPSS), Kuru.
 
-## Academic Leadership
-With years of experience in higher education, I have mentored numerous scholars and led research initiatives aimed at improving the practical application of public administration theories in Nigeria.!
+My scholarly contributions include the development of the Plantain Theory of Sustainable Development and the MO’ Ibrahim Paradigm, both of which represent original theoretical frameworks that have attracted international scholarly attention across Nigeria, India, China, Austria, Romania, Canada, and the United Kingdom.
 
-A data-driven personal website
+
+RESEARCH INTEREST
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My scholarship sits at the crossroads of comparative politics, African governance, and development theory. My work has been published in peer-reviewed journals across six continents and has generated original theoretical frameworks that contribute to global development discourse.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Democracy, Elections & Governance
+Sustainable Development Theory
+Public Administration & Policy
+African Political Economy
+Federalism & National Integration
+Security, Conflict & Displacement
 
 Getting started
 ======
