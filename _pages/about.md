@@ -18,8 +18,6 @@ My scholarly contributions include the development of the Plantain Theory of Sus
 
 Research Interests
 ======
-
-
 My scholarship sits at the crossroads of comparative politics, African governance, and development theory. My work has been published in peer-reviewed journals across six continents and has generated original theoretical frameworks that contribute to global development discourse. I am currently interested in the following research directions:
 
 1.**Democracy, Elections & Governance:** Analyzing the dynamics of credible elections in Nigeria and the impact of military rule on democratic consolidation.
@@ -30,7 +28,7 @@ My scholarship sits at the crossroads of comparative politics, African governanc
 
 4.**African Political Economy:** Examining youth entrepreneurial leadership, economic diversification, and the political economy of Nigeria’s power in Africa.
 
-5. [cite_start]**Federalism & National Integration:** Researching attitudinal barriers to federalism, internal insurrections, and the imperative of national constitutional dialogue.
+5.**Federalism & National Integration:** Researching attitudinal barriers to federalism, internal insurrections, and the imperative of national constitutional dialogue.
 
 6.**Security, Conflict & Displacement:** Focusing on internal security threats, community policing models, and the management of internally displaced persons (IDPs).
 
