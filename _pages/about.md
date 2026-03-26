@@ -18,14 +18,21 @@ My scholarly contributions include the development of the Plantain Theory of Sus
 
 RESEARCH INTEREST
 ======
-My scholarship sits at the crossroads of comparative politics, African governance, and development theory. My work has been published in peer-reviewed journals across six continents and has generated original theoretical frameworks that contribute to global development discourse.
 
-Democracy, Elections & Governance
-Sustainable Development Theory
-Public Administration & Policy
-African Political Economy
-Federalism & National Integration
-Security, Conflict & Displacement
+
+My scholarship sits at the crossroads of comparative politics, African governance, and development theory. My work has been published in peer-reviewed journals across six continents and has generated original theoretical frameworks that contribute to global development discourse. I am currently interested in the following research directions:
+
+1. [cite_start]**Democracy, Elections & Governance:** Analyzing the dynamics of credible elections in Nigeria and the impact of military rule on democratic consolidation[cite: 14, 18, 302].
+
+2. [cite_start]**Sustainable Development Theory:** Developing accelerated development paradigms, specifically the **Plantain Theory of Sustainable Development** and the attainment of SDGs in Africa[cite: 14, 18, 344, 402].
+
+3. [cite_start]**Public Administration & Policy:** Investigating Neo-Liberalism, New Public Management, and administrative reforms within the Nigerian civil service[cite: 20, 277, 410].
+
+4. [cite_start]**African Political Economy:** Examining youth entrepreneurial leadership, economic diversification, and the political economy of Nigeria’s power in Africa[cite: 14, 22, 319, 494].
+
+5. [cite_start]**Federalism & National Integration:** Researching attitudinal barriers to federalism, internal insurrections, and the imperative of national constitutional dialogue[cite: 14, 18, 313, 358].
+
+6. [cite_start]**Security, Conflict & Displacement:** Focusing on internal security threats, community policing models, and the management of internally displaced persons (IDPs)[cite: 14, 20, 347, 412].
 
 Getting started
 ======
