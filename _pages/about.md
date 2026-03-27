@@ -19,10 +19,15 @@ My scholarly contributions include the development of the Plantain Theory of Sus
 Research Interests
 ======
 1.**Democracy, Elections & Governance:** 
+
 2.**Sustainable Development Theory:** 
+
 3.**Public Administration & Policy:**
+ 
 4.**African Political Economy:** 
+
 5.**Federalism & National Integration:**  
+
 6.**Security, Conflict & Displacement:** 
 
 Getting started
