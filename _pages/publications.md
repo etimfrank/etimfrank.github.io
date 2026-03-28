@@ -7,13 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-> **Scopus Author ID:** 56004808700 &nbsp;|&nbsp; **ORCID:** 0000-0001-8950-1570 &nbsp;|&nbsp; **ResearchGate:** researchgate.net/profile/etim-frank &nbsp;|&nbsp; **Google Scholar:** scholar/etim frank
-
----
-
 ## Journal Articles
 
-### After Last Promotion (2015–2023)
+### (2015–2023)
 
 **2023**
 
@@ -89,7 +85,7 @@ author_profile: true
 
 ---
 
-### Before Last Promotion (2007–2014)
+### (2007–2014)
 
 19\. Frank, E. O. (2014). An Integrated Approach to Elections and Conflict — Pursuant to 2015 and Beyond. *Uyo Journal of Politics and Administration*, Vol. 1(1), pp. 197–203. **NIGERIA**
 
@@ -133,8 +129,6 @@ author_profile: true
 
 ## Book Chapters
 
-### After Last Promotion
-
 10\. Frank, E. O. (2021). Minority Ethnic Nationalities Victims of Population Displacement in Nigeria. In *Fortress of Tents: Dynamics of Population Displacement in Nigeria*, pp. 195–218. **NIGERIA**
 
 9\. Frank, E. O. (2021). The New Public Management System for Nigeria: Problems and Prospects. In G. T. Umoette, E. J. Tom & H. O. Ataide (Eds.), *Contemporary Issues in Public Administration and Governance: The Nigerian Experience*, pp. 31–40. **NIGERIA**
@@ -151,7 +145,7 @@ author_profile: true
 
 3\. Frank, E. O. (2017). The Politics of the EFCC and ICPC and Nigeria's Development. In O. A. Bamisaye & Olu Awofeso (Eds.), *Government and Politics in Nigeria, 1914–2014*. OAU, Ile-Ife, pp. 159–176. **NIGERIA**
 
-### Before Last Promotion
+### 
 
 2\. Frank, E. O. (2012). African Socialism in African Political Philosophy. In G. O. Ozumba & E. O. John (Eds.). Uyo: El-John Publishers. **NIGERIA**
 
@@ -160,8 +154,6 @@ author_profile: true
 ---
 
 ## Textbooks
-
-### After Last Promotion
 
 4\. Frank, E. O. (2018). *Political Soldiering: The Theory of Military in Politics and Governance*. Uyo: Robert-Minders Publishers. 236p.
 
