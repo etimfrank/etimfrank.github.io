@@ -115,14 +115,14 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "okonfetim@uniuyo.edu.ng "
   generatedFields:
     date:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -315,8 +315,8 @@ plugins:
 whitelist:
   - jekyll-feed
   - jekyll-gist
-  - #jekyll-paginate
-  - #jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -365,3 +365,6 @@ timezone: Africa/Lagos
 
 atom_feed:
   hide: true
+
+footer:
+  links:
