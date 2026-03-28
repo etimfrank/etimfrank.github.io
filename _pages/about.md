@@ -16,21 +16,16 @@ In addition to my academic responsibilities, I have held several leadership and 
 My scholarly contributions include the development of the Plantain Theory of Sustainable Development and the MO’ Ibrahim Paradigm, both of which represent original theoretical frameworks that have attracted international scholarly attention across Nigeria, India, China, Austria, Romania, Canada, and the United Kingdom.
 
 
-Research Interests
-======
+## Research Interests
 
 - **Democracy, Elections & Governance**
-
 - **Sustainable Development Theory**
-
 - **Public Administration & Policy**
-
 - **African Political Economy**
-
 - **Federalism & National Integration**
+- **Security, Conflict & Displacement**
 
-- **Security, Conflict & Displacement** 
----
+***
 
 ## Awards & Distinctions
 
@@ -42,7 +37,7 @@ Research Interests
 | 2017 | Award of Honour | NAPS – Seat of Wisdom Seminary, Owerri |
 | 2018 | Award of Commitment | CESA |
 
----
+***
 
 ## National Appointments & Recognition
 
@@ -58,9 +53,12 @@ Research Interests
 - **Board Member**, Women United for Economic Empowerment
 - **Member**, Governing Board, Youth Alive Foundation (NGO)
 
----
+***
 
 ## Professional Fellowships
 
 - **Fellow**, Chartered Institute of Administrators (FCIA)
 - **Fellow**, Chartered Institute of Public Diplomacy and Management (FCIPDM)
+```
+
+
