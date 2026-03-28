@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: 
 permalink: /publications/
 author_profile: true
 ---
@@ -17,7 +17,7 @@ author_profile: true
 
 **2022**
 
-45\. Frank, E. O. (2022). Urbanization: Gender Equality in Sustaining the Family — The Disconnect. *UNIUYO Journal of Gender Studies in collaboration with IAPAAR*, Vol. 4, pp. 220–233. **NIGERIA**
+45\. Frank, E. O. (2022). Urbanization: Gender Equality in Sustaining the Family — The Disconnect. *UNIUYO Journal of Gender Studies in collaboration with IAPAAR*, Vol. 4, pp. 220–233. 
 
 44\. Frank, E. O. and Ukpere, W. I. (2022). Health Security Issues and Challenges in Nigeria. *Annals of Spiru Haret University — Economic Series*, Vol. 13(22), Issue 4, pp. 319–339. **ROMANIA**
 
@@ -29,49 +29,48 @@ author_profile: true
 
 41\. Frank, E. O. (2021). Plantain Theory and the Attainment of SDGs 2030 by African States: An Exposition. *Journal of Economic Development, Environment and People*, Vol. 10(3), pp. 99–111. **AUSTRIA**
 
-40\. Frank, E. O., Bassey, J. E. and Enwieme, R. E. (2021). The Value-Chain Theory of Rural Development: A Developmental Approach for Nigeria. *Akwa Journal of Arts Social Science Humanity Education (AJASSHE)*, Vol. 1(1), pp. 6–16. **NIGERIA**
+40\. Frank, E. O., Bassey, J. E. and Enwieme, R. E. (2021). The Value-Chain Theory of Rural Development: A Developmental Approach for Nigeria. *Akwa Journal of Arts Social Science Humanity Education (AJASSHE)*, Vol. 1(1), pp. 6–16. 
 
-39\. Frank, E. O. (2021). States in the Continent: Development Bottlenecks in the 21st Century. *AKSU Journal of Social Sciences*, Vol. 1(1), pp. 1–34. **NIGERIA**
+39\. Frank, E. O. (2021). States in the Continent: Development Bottlenecks in the 21st Century. *AKSU Journal of Social Sciences*, Vol. 1(1), pp. 1–34. 
 
 **2020**
 
-38\. Frank, E. O. and Ebong, U. K. (2020). Federalism Democracy and Development in Nigeria: An Analysis. *Journal of Nigerian Political Science Association*, Vol. 1(1), pp. 42–54. **NIGERIA**
+38\. Frank, E. O. and Ebong, U. K. (2020). Federalism Democracy and Development in Nigeria: An Analysis. *Journal of Nigerian Political Science Association*, Vol. 1(1), pp. 42–54. 
 
-37\. Frank, E. O. (2020). State Political Power: A Theoretical Exposition. *UniUyo Journal of Politics Governance and Administration*, Vol. 2(1), pp. 19–29. **NIGERIA**
+37\. Frank, E. O. (2020). State Political Power: A Theoretical Exposition. *UniUyo Journal of Politics Governance and Administration*, Vol. 2(1), pp. 19–29. 
 
 **2019**
 
-36\. Frank, E. O. (2019). The Theory of Enduring Public Enterprises in Politics. *International Journal of Social Sciences*, Vol. 13(1), pp. 90–99. **NIGERIA**
+36\. Frank, E. O. (2019). The Theory of Enduring Public Enterprises in Politics. *International Journal of Social Sciences*, Vol. 13(1), pp. 90–99. 
 
 35\. Frank, E. O. (2019). Nigeria and Sudan: A Comparative Study of Internal Security Threats by Herdsmen and the Janjaweed Militia. *Specialty Journal of Politics and Law*, Vol. 4(1). **AUSTRIA**
 
 34\. Frank, E. O. (2019). 2019 Elections: Nigeria's Annus Mirabilis. *Journal of Sustainable Development Studies*, Vol. 12(1), pp. 37–48. **CHINA**
 
-33\. Frank, E. O. (2019). Leadership and Diversification of Nigeria Economy: The Political Economy Perspective. *Proceedings of 2019 International Conference, Nnamdi Azikiwe University*, Awka, Vol. 1(1), pp. 691–695. **NIGERIA**
+33\. Frank, E. O. (2019). Leadership and Diversification of Nigeria Economy: The Political Economy Perspective. *Proceedings of 2019 International Conference, Nnamdi Azikiwe University*, Awka, Vol. 1(1), pp. 691–695. 
 
 32\. Frank, E. O. (2019). African Cultural Values — A Disincentive for Development: An Explanda. *Journal of Academic Research in Economics (JARE)*, Vol. 11(2), pp. 428–442. **AUSTRIA**
 
 **2018**
 
-31\. Frank, E. O. (2018). Attitudinal Barriers to Federalism. *International Journal of Social Sciences*, Vol. 12(3), pp. 147–159. **NIGERIA**
+31\. Frank, E. O. (2018). Attitudinal Barriers to Federalism. *International Journal of Social Sciences*, Vol. 12(3), pp. 147–159. 
 
-30\. Frank, E. O. (2018). The Paradigm for Accelerated Development of Nigeria. *South-South Journal of Culture and Development*, Vol. 20(1), pp. 205–224. **NIGERIA**
+30\. Frank, E. O. (2018). The Paradigm for Accelerated Development of Nigeria. *South-South Journal of Culture and Development*, Vol. 20(1), pp. 205–224. 
 
 **2017**
 
-29\. Frank, E. O. (2017). Credibility of Local Government Elections in Nigeria: Elections Observation Paradigm — The Case of Akwa Ibom State Local Government. *International Journal of Social Sciences (IJSS)*, Vol. 11(4), pp. 145–157. **NIGERIA**
+29\. Frank, E. O. (2017). Credibility of Local Government Elections in Nigeria: Elections Observation Paradigm — The Case of Akwa Ibom State Local Government. *International Journal of Social Sciences (IJSS)*, Vol. 11(4), pp. 145–157. 
 
-28\. Frank, E. O. (2017). Making the Case for the BRACED Commission as a Development Agency for the South-South Zone of Nigeria. *International Journal of the Social Sciences (FSS Uniuyo)*, Vol. 11(2), pp. 146–155. **NIGERIA**
+28\. Frank, E. O. (2017). Making the Case for the BRACED Commission as a Development Agency for the South-South Zone of Nigeria. *International Journal of the Social Sciences (FSS Uniuyo)*, Vol. 11(2), pp. 146–155. 
 
 27\. Frank, E. O. (2017). Plantain Theory of Sustainable Development: The Accelerated Increase Paradigm for Nigeria. *Social Science Review*, Vol. 3(2). **BANGLADESH**
 
-26\. Frank, E. O. (2017). Restructuring Nigeria, Internal Insurrections and True Federalism: The Way Forward. *The Artist Journal*, Vol. 2(1), pp. 133–138. **NIGERIA**
-
+26\. Frank, E. O. (2017). Restructuring Nigeria, Internal Insurrections and True Federalism: The Way Forward. *The Artist Journal*, Vol. 2(1), pp. 133–138. 
 **2016**
 
-25\. Frank, E. O. (2016). Actualization of the Millennium Development Goals in Africa by 2015: A Study of the Impediments. *Uyo Journal of Sustainable Development (UJSD)*, Vol. 1(1), pp. 177–190. **NIGERIA**
+25\. Frank, E. O. (2016). Actualization of the Millennium Development Goals in Africa by 2015: A Study of the Impediments. *Uyo Journal of Sustainable Development (UJSD)*, Vol. 1(1), pp. 177–190. 
 
-24\. Frank, E. O., Umo-Udo, N. S., James, V., Ekpenyong, A. (2016). Sustainable Development Plan (SDP) for Nigeria: The Theoretic. *Uyo Journal of Sustainable Development (UJSD)*, Vol. 1(1), pp. 1–13. **NIGERIA**
+24\. Frank, E. O., Umo-Udo, N. S., James, V., Ekpenyong, A. (2016). Sustainable Development Plan (SDP) for Nigeria: The Theoretic. *Uyo Journal of Sustainable Development (UJSD)*, Vol. 1(1), pp. 1–13. 
 
 23\. Frank, E. O. (2016). The Underdevelopment of Nigeria and Africa: The MO' Ibrahim Paradigm. *Mediterranean Journal of Social Sciences*, Vol. 7(2), pp. 70–78. **ROME, ITALY**
 
@@ -81,75 +80,74 @@ author_profile: true
 
 21\. Frank, E. O. (2015). Plantain Theory of Sustainable Development. *Infinity Journal of Sustainable Development Studies*, Vol. 8, No. 2, pp. 294–316. **CHINA**
 
-20\. Frank, E. O., Agweda, T. O., Odigie, S. A. (2015). A Critical Assessment of Conflict and Post-Conflict Management in Nigeria. *Ekpoma Journal of Social Sciences*, Ambrose Ali University, Vol. 5, No. 2, pp. 13–24. **NIGERIA**
+20\. Frank, E. O., Agweda, T. O., Odigie, S. A. (2015). A Critical Assessment of Conflict and Post-Conflict Management in Nigeria. *Ekpoma Journal of Social Sciences*, Ambrose Ali University, Vol. 5, No. 2, pp. 13–24. 
 
 ---
 
 ### (2007–2014)
 
-19\. Frank, E. O. (2014). An Integrated Approach to Elections and Conflict — Pursuant to 2015 and Beyond. *Uyo Journal of Politics and Administration*, Vol. 1(1), pp. 197–203. **NIGERIA**
+19\. Frank, E. O. (2014). An Integrated Approach to Elections and Conflict — Pursuant to 2015 and Beyond. *Uyo Journal of Politics and Administration*, Vol. 1(1), pp. 197–203. 
 
-18\. Frank, E. O. (2014). The Political Economy of Nigeria's Declining Power in Africa: Outcomes and Public Policy Options. *Nigerian Journal of Legislative Affairs (NJLA)*, Vol. 6(1), pp. 55–62. **NIGERIA**
+18\. Frank, E. O. (2014). The Political Economy of Nigeria's Declining Power in Africa: Outcomes and Public Policy Options. *Nigerian Journal of Legislative Affairs (NJLA)*, Vol. 6(1), pp. 55–62. 
 
 17\. Frank, E. O. and Ukpere, W. I. (2013). Administration of National Integration in Nigeria: The Challenges and Prospects. *Mediterranean Journal of Social Sciences*, Vol. 4, No. 14, pp. 481–489. **ROME, ITALY**
 
-16\. Frank, E. O. (2013). Nigeria: The Imperative of National Dialogue on the 1999 Constitution. *South-South Journal of Culture and Development*, Uyo, Vol. 15, No. 2, pp. 152–179. **NIGERIA**
+16\. Frank, E. O. (2013). Nigeria: The Imperative of National Dialogue on the 1999 Constitution. *South-South Journal of Culture and Development*, Uyo, Vol. 15, No. 2, pp. 152–179. 
 
-15\. Frank, E. O. and Odigie, S. A. (2012). Leadership, Policy Effectiveness and Development in Africa. *International Journal of Social Sciences*, University of Uyo, Vol. 8(1), pp. 87–102. **NIGERIA**
+15\. Frank, E. O. and Odigie, S. A. (2012). Leadership, Policy Effectiveness and Development in Africa. *International Journal of Social Sciences*, University of Uyo, Vol. 8(1), pp. 87–102. 
 
 14\. Frank, E. O. and Ukpere, W. I. (2012). The Impact of the Military Rule on Democracy in Nigeria. *Kamla Raj Journal of Social Sciences*, Vol. 33(3), pp. 285–292. **INDIA** *(Online ResearchGate)*
 
-13\. Frank, E. O. (2012). Agricultural Development and Food Security in Nigeria: The Political Economy Approach. *Multi-Disciplinary Journal of Research and Development Perspective*, Calabar, Vol. 1(1), pp. 142–151. **NIGERIA**
+13\. Frank, E. O. (2012). Agricultural Development and Food Security in Nigeria: The Political Economy Approach. *Multi-Disciplinary Journal of Research and Development Perspective*, Calabar, Vol. 1(1), pp. 142–151. 
 
-12\. Frank, E. O. (2011). Towards Credible Elections in Nigeria: Lessons from the 2007 General Elections. *Review of Nigerian Political Economy*, Abuja, Vol. 1, No. 11, pp. 67–86. **NIGERIA**
+12\. Frank, E. O. (2011). Towards Credible Elections in Nigeria: Lessons from the 2007 General Elections. *Review of Nigerian Political Economy*, Abuja, Vol. 1, No. 11, pp. 67–86. 
 
-11\. Frank, E. O. (2010). The Politics of Headcounts in Nigeria: The Struggle for Numbers. *Abia Journal of Population Studies*, Vol. 1, pp. 77–86. **NIGERIA**
+11\. Frank, E. O. (2010). The Politics of Headcounts in Nigeria: The Struggle for Numbers. *Abia Journal of Population Studies*, Vol. 1, pp. 77–86. 
 
-10\. Frank, E. O. (2010). The Sociology of Poverty in Africa: The Cultural Paradigm. *South-South Journal of Culture and Development*, Uyo, Vol. 12, No. 1, pp. 75–99. **NIGERIA**
+10\. Frank, E. O. (2010). The Sociology of Poverty in Africa: The Cultural Paradigm. *South-South Journal of Culture and Development*, Uyo, Vol. 12, No. 1, pp. 75–99. 
 
-9\. Frank, E. O. (2009). The Political Economy and Global Financial Meltdown: The Implication for Nigeria. *Global Journal of Social Sciences*, Calabar, Vol. 8, No. 1, pp. 111–117. **NIGERIA**
+9\. Frank, E. O. (2009). The Political Economy and Global Financial Meltdown: The Implication for Nigeria. *Global Journal of Social Sciences*, Calabar, Vol. 8, No. 1, pp. 111–117. 
 
 8\. Frank, E. O. (2009). Accountability of Government through the Budget Process: A Paradigm Shift. *Interdisciplinary Journal of Contemporary Research in Business*, Vol. 1, No. 2, pp. 38–59. **INDIA**
 
-7\. Frank, E. O. (2008). Poverty Eradication in Nigeria: Problems and Prospects. *African Journal of Political and Administrative Studies (AJPAS)*, Enugu, Vol. 4, No. 1, pp. 53–73. **NIGERIA**
+7\. Frank, E. O. (2008). Poverty Eradication in Nigeria: Problems and Prospects. *African Journal of Political and Administrative Studies (AJPAS)*, Enugu, Vol. 4, No. 1, pp. 53–73. 
 
-6\. Frank, E. O. (2008). The Seven-Point Agenda and Vision 2020: The Political Economy Paradigm. *African Journal of Stability and Development*, Akungba-Ondo, Vol. 2, No. 2, pp. 28–46. **NIGERIA**
+6\. Frank, E. O. (2008). The Seven-Point Agenda and Vision 2020: The Political Economy Paradigm. *African Journal of Stability and Development*, Akungba-Ondo, Vol. 2, No. 2, pp. 28–46. 
 
-5\. Frank, E. O. (2007). Nigeria and Ghana: A Comparative Study of Governance and Development. *International Journal of Social Sciences*, Uyo, Vol. 6, No. 1, pp. 154–165. **NIGERIA**
+5\. Frank, E. O. (2007). Nigeria and Ghana: A Comparative Study of Governance and Development. *International Journal of Social Sciences*, Uyo, Vol. 6, No. 1, pp. 154–165. 
 
-4\. Frank, E. O. (2007). Wage Reforms for Productivity in Nigeria Civil Service: An Evaluation. *African Journal of Stability and Development*, Akungba-Ondo, Vol. 1, No. 2, pp. 68–82. **NIGERIA**
+4\. Frank, E. O. (2007). Wage Reforms for Productivity in Nigeria Civil Service: An Evaluation. *African Journal of Stability and Development*, Akungba-Ondo, Vol. 1, No. 2, pp. 68–82.
 
-3\. Duru, E. J. C. and Frank, E. O. (2007). The State of Human Rights: Theory and Evidence. *Journal of Policy and Development Studies*, Enugu, Vol. 1, No. 2, pp. 72–77. **NIGERIA**
+3\. Duru, E. J. C. and Frank, E. O. (2007). The State of Human Rights: Theory and Evidence. *Journal of Policy and Development Studies*, Enugu, Vol. 1, No. 2, pp. 72–77. 
 
-2\. Frank, E. O. (2007). Public Administration and Challenges for National Development: The Civil Service Perspective. *International Journal of Development Studies*, Uyo, Vol. 2, No. 2, pp. 53–59. **NIGERIA**
+2\. Frank, E. O. (2007). Public Administration and Challenges for National Development: The Civil Service Perspective. *International Journal of Development Studies*, Uyo, Vol. 2, No. 2, pp. 53–59.
 
-1\. Frank, E. O. (2007). Protestants Ethics and Capitalism: The Luther-Weber Dialectics. *BIUDISCOURSE – Journal of Arts & Education*, Benin-City, Vol. 2, No. 1, pp. 71–82. **NIGERIA**
+1\. Frank, E. O. (2007). Protestants Ethics and Capitalism: The Luther-Weber Dialectics. *BIUDISCOURSE – Journal of Arts & Education*, Benin-City, Vol. 2, No. 1, pp. 71–82. 
 
 ---
 
 ## Book Chapters
 
-10\. Frank, E. O. (2021). Minority Ethnic Nationalities Victims of Population Displacement in Nigeria. In *Fortress of Tents: Dynamics of Population Displacement in Nigeria*, pp. 195–218. **NIGERIA**
+10\. Frank, E. O. (2021). Minority Ethnic Nationalities Victims of Population Displacement in Nigeria. In *Fortress of Tents: Dynamics of Population Displacement in Nigeria*, pp. 195–218. 
 
-9\. Frank, E. O. (2021). The New Public Management System for Nigeria: Problems and Prospects. In G. T. Umoette, E. J. Tom & H. O. Ataide (Eds.), *Contemporary Issues in Public Administration and Governance: The Nigerian Experience*, pp. 31–40. **NIGERIA**
+9\. Frank, E. O. (2021). The New Public Management System for Nigeria: Problems and Prospects. In G. T. Umoette, E. J. Tom & H. O. Ataide (Eds.), *Contemporary Issues in Public Administration and Governance: The Nigerian Experience*, pp. 31–40. 
 
-8\. Frank, E. O. (2021). Local Government Structure in Nigeria: The Major Challenge to Effective Service Delivery. In G. T. Umoette, E. J. Tom & H. O. Ataide (Eds.), *Contemporary Issues in Public Administration and Governance: The Nigerian Experience*, pp. 102–108. **NIGERIA**
+8\. Frank, E. O. (2021). Local Government Structure in Nigeria: The Major Challenge to Effective Service Delivery. In G. T. Umoette, E. J. Tom & H. O. Ataide (Eds.), *Contemporary Issues in Public Administration and Governance: The Nigerian Experience*, pp. 102–108.*
 
-7\. Frank, E. O. and Enwieme, E. R. (2021). Education Policy in Nigeria: An Overview. In E. I. Ejere, E. O. Frank & A. N. Udofia (Eds.), *Issues in Public Policy Analysis and Decision-Making*, pp. 254–267. Uyo. **NIGERIA**
+7\. Frank, E. O. and Enwieme, E. R. (2021). Education Policy in Nigeria: An Overview. In E. I. Ejere, E. O. Frank & A. N. Udofia (Eds.), *Issues in Public Policy Analysis and Decision-Making*, pp. 254–267. Uyo. 
 
-6\. Frank, E. O. (2019). Perspective in Nigeria's Agricultural Policies. In E. I. Ejere, E. O. Frank & A. N. Udofia (Eds.), *Public Policy Analysis and Decision-Making*, pp. 147–165. Uyo. **NIGERIA**
 
-5\. Frank, E. O. (2019). State Policing: Options for Effective Internal Security in Nigeria. In C. O. Bassey and M. Ogbonaya (Eds.), *Internal Security Crisis and Community Policing in Nigeria: Models, Strategy and Options*, pp. 557–576. **NIGERIA**
+6\. Frank, E. O. (2019). Perspective in Nigeria's Agricultural Policies. In E. I. Ejere, E. O. Frank & A. N. Udofia (Eds.), *Public Policy Analysis and Decision-Making*, pp. 147–165. Uyo. 
 
-4\. Frank, E. O. (2017). Neo-Liberalism and the New Public Management in Nigeria. In C. N. Oguonu & O. M. Ikeanyibe (Eds.), *Hand Book of Administrative Development Reforms Theory and Practice in Nigeria*. University of Nigeria, Nsukka, pp. 119–142. **NIGERIA**
+5\. Frank, E. O. (2019). State Policing: Options for Effective Internal Security in Nigeria. In C. O. Bassey and M. Ogbonaya (Eds.), *Internal Security Crisis and Community Policing in Nigeria: Models, Strategy and Options*, pp. 557–576. 
 
-3\. Frank, E. O. (2017). The Politics of the EFCC and ICPC and Nigeria's Development. In O. A. Bamisaye & Olu Awofeso (Eds.), *Government and Politics in Nigeria, 1914–2014*. OAU, Ile-Ife, pp. 159–176. **NIGERIA**
+4\. Frank, E. O. (2017). Neo-Liberalism and the New Public Management in Nigeria. In C. N. Oguonu & O. M. Ikeanyibe (Eds.), *Hand Book of Administrative Development Reforms Theory and Practice in Nigeria*. University of Nigeria, Nsukka, pp. 119–142. 
 
-### 
+3\. Frank, E. O. (2017). The Politics of the EFCC and ICPC and Nigeria's Development. In O. A. Bamisaye & Olu Awofeso (Eds.), *Government and Politics in Nigeria, 1914–2014*. OAU, Ile-Ife, pp. 159–176. 
 
-2\. Frank, E. O. (2012). African Socialism in African Political Philosophy. In G. O. Ozumba & E. O. John (Eds.). Uyo: El-John Publishers. **NIGERIA**
+2\. Frank, E. O. (2012). African Socialism in African Political Philosophy. In G. O. Ozumba & E. O. John (Eds.). Uyo: El-John Publishers. 
 
-1\. Frank, E. O. (2008). The Nigerian Socio-Economic Reforms: An Evaluation. In Sunday A. Idahosa and S. Guobadia (Eds.), *Socio-Economic Reforms in Nigeria — Essays in Honour of Messrs J. N. Agbonlahor and A. O. Amaye*. All-Nations Press, Benin-City, pp. 20–47. **NIGERIA**
+1\. Frank, E. O. (2008). The Nigerian Socio-Economic Reforms: An Evaluation. In Sunday A. Idahosa and S. Guobadia (Eds.), *Socio-Economic Reforms in Nigeria — Essays in Honour of Messrs J. N. Agbonlahor and A. O. Amaye*. All-Nations Press, Benin-City, pp. 20–47. 
 
 ---
 
