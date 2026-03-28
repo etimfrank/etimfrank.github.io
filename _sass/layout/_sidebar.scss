@@ -18,12 +18,11 @@
   }
 
 @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 100vh;
     overflow-y: auto;
-    position: sticky;
+    position: fixed;
     top: 0;
+    bottom: 60px;
     padding-top: $masthead-height;
-    padding-bottom: 80px;
   }
 
   @include breakpoint($large) {
