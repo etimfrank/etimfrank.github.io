@@ -1,8 +1,11 @@
 ---
 permalink: /
-About Me: ""
+title: "About Me"
 author_profile: true
-redirect_from: 
+toc: true
+toc_label: "On This Page"
+toc_icon: "list"
+redirect_from:
   - /about/
   - /about.html
 ---
