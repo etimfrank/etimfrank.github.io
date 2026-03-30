@@ -17,17 +17,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Lab"
+    url: /Lab/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Philosophy"
+    url: /Philosophy/
     
-  - title: "CV"
-    url: /cv/
+ 
     
-  # - title: "CV"
-  #   url: /cv-json/
+
     
-  - title: "Guide"
-    url: /markdown/
+  -

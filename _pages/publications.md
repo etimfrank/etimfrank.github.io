@@ -9,8 +9,6 @@ author_profile: true
 
 ## Journal Articles
 
-### (2015–2023)
-
 **2023**
 
 46\. Frank, E. O. and Ukpere, W. I. (2023). A Deconstruction of Frustration-Aggression Theory of Political Violence: Nigeria. *Annals of Spiru Haret University — Economic Series*, Vol. 23(2), pp. 117–139. **ROMANIA**
