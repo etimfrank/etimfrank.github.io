@@ -28,10 +28,8 @@ author:
   bio              : "Professor of Public Administration"
   location         : "Uyo, Nigeria"
   employer         : "University of Uyo"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:okonfetim@uniuyo.edu.ng"
+  email            : "okonfetim@uniuyo.edu.ng"
+  
 
   # Academic websites
   academia         : # URL
