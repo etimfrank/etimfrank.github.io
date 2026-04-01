@@ -25,7 +25,6 @@ My scholarly contributions include the development of the Plantain Theory of Sus
 - **Sustainable Development Theory**
 - **Public Administration & Policy**
 - **African Political Economy**
-- **Federalism & National Integration**
 - **Security, Conflict & Displacement**
 
 ***
