@@ -9,7 +9,7 @@ author_profile: true
 
 My scholarship is driven by one enduring question: *why does Africa, with all its richness, continue to struggle to develop on its own terms?*
 
-I believe that knowledge must serve people. Research that cannot reach beyond the university gates has not gone far enough. This conviction shapes everything — my theories, my teaching, and my public service.
+I believe that knowledge must serve people. Research that cannot go beyond the university gates has not gone far enough. This conviction shapes everything — my theories, my teaching, and my public service.
 
 ## Teaching Philosophy
 
