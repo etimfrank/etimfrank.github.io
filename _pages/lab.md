@@ -1,25 +1,23 @@
 ---
-layout: archive
+layout: single
 title: "Lab & Research Group"
 permalink: /Lab/
 author_profile: true
 ---
 
-## PhD Students Currently Supervised
+My research group brings together scholars and emerging academics who share a commitment to rigorous inquiry into governance, public administration, development, and political theory in Africa. I welcome collaboration with researchers, doctoral candidates, and policy practitioners who are working on questions that sit at the intersection of politics, development, and public life.
 
-| Student | Year | Research Topic |
-|---------|------|----------------|
-| Ndanye, A.A. | 2023 | Governance and Security Challenges in Nigeria |
-| Akapanem, E.E. | 2023 | Herdsmen-Farmers Conflicts and Food Security |
-| Udoka, S.P. | 2023 | Prevailing Political Culture in Nigeria's Fourth Republic |
-| Edet, E.U. | 2021 | Africa-United States Relations (1999–2019) |
-| Tom, G.F. | 2019 | Nigeria-South African Diplomatic Relations |
+If you are interested in working with me, feel free to reach out via email at okonfetim@uniuyo.edu.ng
 
-## Past PhD Students
+***
 
-| Student | Year Graduated | Thesis Topic |
-|---------|---------------|--------------|
-| Onyekachi, P.V. | 2016 | IDPs Camp and Terror Infiltration |
-| Edem, K.O. | 2015 | African Union and African Integration |
-| Yissa, C.I. | 2015 | Public Private Partnership and Service Delivery |
-| Ufem, M.O. | 2015 | Global War on Terror: State Response to Terrorism |
+## Current Mentees
+
+- Dr Anieti Udofia
+- Dr Rex Edet Enwieme
+
+***
+
+## Research Assistant
+
+- Dominic Williams
