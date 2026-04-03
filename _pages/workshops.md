@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2026
 
-**Panelist** -  Women in Local Governance: Strengthening Citizen Participation and Peacebuilding toward Nigeria's 2027 Elections
+**Panelist** - Women in Local Governance: Strengthening Citizen Participation and Peacebuilding toward Nigeria's 2027 Elections
 - Organised by: The Agora Policy Dialogue Series by YouPaD, Akwa Ibom Female Councillors Forum & Friedrich Ebert Stiftung Nigeria
 - Venue: Ahta Isong Hall, Ceedapeg Hotels, Uyo
 - Date: 27th March, 2026
