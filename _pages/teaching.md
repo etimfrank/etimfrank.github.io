@@ -19,21 +19,27 @@ author_profile: true
 - Comparative Public Administration (MPA)
 - Administrative Law (PGD)
 
-### Undergraduate
-— The Military in Politics
-— Third World and Dependency
-— Revolution and Society
-— Political Parties and Pressure Groups
-— History of Political Thought 1 & 2
-— Government Administration in Urban System
-— Politics of Development & Underdevelopment
-— Political Behaviour
-— Theory and Practice of Marxism
-— Nigerian Constitutional Development
-— Political Ideas
-— Organization of Government; the Citizens and the State
-— Nigerian Government and Politics
-— Public Policy Analysis & Decision-Making
-— Africa in World Politics
-— Military in Politics
-— Human Relations
+### Undergraduate — 400 Level
+- The Military in Politics
+- Third World and Dependency
+- Revolution and Society
+- Political Parties and Pressure Groups
+
+### Undergraduate — 300 Level
+- History of Political Thought 1 & 2
+- Government Administration in Urban System
+- Politics of Development & Underdevelopment
+- Political Behaviour
+- Theory and Practice of Marxism
+
+### Undergraduate — 100/200 Level
+- Nigerian Constitutional Development
+- Political Ideas
+- Organization of Government; the Citizens and the State
+- Nigerian Government and Politics
+
+### Diploma
+- Public Policy Analysis & Decision-Making
+- Africa in World Politics
+- Military in Politics
+- Human Relations
