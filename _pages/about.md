@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: 
 author_profile: true
 toc: true
 toc_label: "On This Page"
@@ -14,10 +14,9 @@ I am a Professor of Public Administration at the University of Uyo, Akwa Ibom St
 
 My academic trajectory spans multiple institutions and disciplines: I earned a B.Sc. from the University of Jos (1984), an M.Sc. from the University of Uyo (1997), a Ph.D. from the University of Calabar (2005), and a Postgraduate Diploma in Sustainable Development from the Hebrew University of Jerusalem (2011). This interdisciplinary training has shaped my scholarly engagement with politics, governance, and African development.
 
-In addition to my academic responsibilities, I have held several leadership and service roles, including Acting Director of the Clement Isong Centre for Development Studies, membership of the University Senate, and as an External Examiner at the University of Calabar and others. I also engage the public sphere as a commentator and news analyst on Comfort and Atlantic and many other FM Radio in Uyo, and have contributed to national policy discourse through appointments such as membership of the Governing Council of the Federal Polytechnic Ukana-Essien Udim and group of  Eminent Persons, the National Institute of Policy and Strategic Studies (NIPSS), Kuru.
+In addition to my academic responsibilities, I have held several leadership and service roles, including Acting Director of the Clement Isong Centre for Development Studies, membership of the University Senate, and as an External Examiner at the University of Calabar and others. I also engage the public sphere as a commentator and news analyst on Comfort and Atlantic and many other FM Radio in Uyo, and have contributed to national policy discourse through appointments such as membership of the Governing Council of the Federal Polytechnic Ukana-Essien Udim and group of Eminent Persons, the National Institute of Policy and Strategic Studies (NIPSS), Kuru.
 
-My scholarly contributions include the development of the Plantain Theory of Sustainable Development, the clenshed fist theory of human right as well as the theory of leadership without followership and the MO’ Ibrahim Paradigm, both of which represent original theoretical frameworks that have attracted international scholarly attention across Nigeria, India, China, Austria, Romania, Canada, and the United Kingdom.
-
+My scholarly contributions include the development of the Plantain Theory of Sustainable Development, the clenched fist theory of human rights, the theory of leadership without followership and the MO' Ibrahim Paradigm — original theoretical frameworks that have attracted international scholarly attention across Nigeria, India, China, Austria, Romania, Canada, and the United Kingdom.
 
 ## Research Interests
 
@@ -36,6 +35,7 @@ My scholarly contributions include the development of the Plantain Theory of Sus
 | 2016 | Academic Service Award | NAPSS |
 | 2016 | Award of Excellence | NADS |
 | 2016 | Excellence Award | NAPGDPS |
+| 2016 | Plaque of Honour | Institute of Corporate Administration |
 | 2017 | Award of Honour | NAPS – Seat of Wisdom Seminary, Owerri |
 | 2018 | Award of Commitment | CESA |
 
@@ -57,10 +57,11 @@ My scholarly contributions include the development of the Plantain Theory of Sus
 
 ***
 
-## Professional Fellowships
+## Professional Fellowships & Memberships
 
 - **Fellow**, Chartered Institute of Administrators (FCIA)
 - **Fellow**, Chartered Institute of Public Diplomacy and Management (FCIPDM)
-
-
-
+- **Member**, Nigerian Political Science Association (NPSA)
+- **Member**, Nigeria Institute of Management — AMNIM (1991)
+- **Member**, Institute of Personnel Management — ACIPM (1992)
+- **Member**, International Society for Development and Sustainability (ISDS) — Japan
