@@ -9,7 +9,7 @@ author_profile: true
 
 My scholarship is driven by one enduring question: *why does Africa, with all its richness, continue to struggle to develop on its own terms?*
 
-I believe that knowledge must serve people. Research that cannot go beyond the university gates has not gone far enough. This conviction shapes everything — my theories, my teaching, and my public service.
+I believe that knowledge must serve people. Research that cannot go beyond the university gates has not gone far enough. This conviction shapes everything, my theories, my teaching, and my public service.
 
 ## Teaching Philosophy
 
@@ -17,4 +17,4 @@ I approach every classroom as a space where ideas meet responsibility. My goal i
 
 ## Research Philosophy
 
-I am the originator of the **Plantain Theory of Sustainable Development** and the **MO' Ibrahim Paradigm** — frameworks built on the conviction that Africa's development must be theorised from within, not borrowed from outside. True scholarship must be bold enough to propose new ideas, not just critique existing ones.
+I am the originator of the **Plantain Theory of Sustainable Development**, the **Clenched Fist Theory of Human Rights**, the **Theory of Leadership without Followership** and the **MO' Ibrahim Paradigm** - frameworks built on the conviction that Africa's development must be theorised from within, not borrowed from outside. True scholarship must be bold enough to propose new ideas, not just critique existing ones..

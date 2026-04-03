@@ -21,7 +21,7 @@ author_profile: true
 
 ### 2016
 
-**Eminent Person** — The National Institute for Policy and Strategic Studies (NIPSS)
+**Eminent Person** - The National Institute for Policy and Strategic Studies (NIPSS)
 - Venue: Sheraton Hotel, Abuja
 - Date: 30th November, 2016
 
@@ -31,9 +31,9 @@ author_profile: true
 
 ### 2011
 
-**Participant** — Models of Sustainable Development Initiatives for Rural Communities in Desert Areas
+**Participant** - Models of Sustainable Development Initiatives for Rural Communities in Desert Areas
 - Institution: The Hebrew University of Jerusalem, Robert H. Smith Faculty of Agriculture, Food & Environment, The Division for External Studies
-- Date: March 21 – April 14, 2011
+- Date: March 21 - April 14, 2011
 
 ***
 
@@ -41,6 +41,6 @@ author_profile: true
 
 ### 2009
 
-**Participant** — The Role of NGOs in Facilitating Access to the Independent Accountability Mechanisms for Project Affected People
+**Participant** - The Role of NGOs in Facilitating Access to the Independent Accountability Mechanisms for Project Affected People
 - Organiser: NCMG Lagos
 - Date: February 9, 2009

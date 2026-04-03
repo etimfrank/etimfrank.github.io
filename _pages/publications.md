@@ -30,7 +30,7 @@ author_profile: true
 
 43\. Frank, E. O. (2022). Urbanization: Gender Equality in Sustaining the Family — The Disconnect. *UNIUYO Journal of Gender Studies in collaboration with IAPAAR*, Vol. 4, pp. 220–233. **NIGERIA**
 
-42\. Frank, E. O. and Ukpere, W. I. (2022). Health Security Issues and Challenges in Nigeria. *Annals of Spiru Haret University — Economic Series*, Vol. 13(22), Issue 4, pp. 319–339. **ROMANIA**
+42\. Frank, E. O. and Ukpere, W. I. (2022). Health Security Issues and Challenges in Nigeria. *Annals of Spiru Haret University, Economic Series*, Vol. 13(22), Issue 4, pp. 319–339. **ROMANIA**
 
 41\. Frank, E. O. and Ukpere, W. I. (2022). Traditional Public Administrative System: An Exposition in African Context. *Journal of Economic Development, Environment and People (JEDEP)*, Vol. 11, No. 1, pp. 58–72. **ROMANIA**
 
@@ -60,7 +60,7 @@ author_profile: true
 
 31\. Frank, E. O. (2019). Leadership and Diversification of Nigeria Economy: The Political Economy Perspective. *Proceedings of 2019 International Conference, Nnamdi Azikiwe University*, Awka, Vol. 1(1), pp. 691–695. **NIGERIA**
 
-30\. Frank, E. O. (2019). African Cultural Values — A Disincentive for Development: An Explanda. *Journal of Academic Research in Economics (JARE)*, Vol. 11(2), pp. 428–442. **AUSTRIA**
+30\. Frank, E. O. (2019). African Cultural Values - A Disincentive for Development: An Explanda. *Journal of Academic Research in Economics (JARE)*, Vol. 11(2), pp. 428–442. **AUSTRIA**
 
 ### 2018
 
@@ -161,7 +161,7 @@ author_profile: true
 
 2\. Frank, E. O. (2012). African Socialism in African Political Philosophy. In G. O. Ozumba & E. O. John (Eds.). Uyo: El-John Publishers. **NIGERIA**
 
-1\. Frank, E. O. (2008). The Nigerian Socio-Economic Reforms: An Evaluation. In Sunday A. Idahosa and S. Guobadia (Eds.), *Socio-Economic Reforms in Nigeria — Essays in Honour of Messrs J. N. Agbonlahor and A. O. Amaye*. All-Nations Press, Benin-City, pp. 20–47. **NIGERIA**
+1\. Frank, E. O. (2008). The Nigerian Socio-Economic Reforms: An Evaluation. In Sunday A. Idahosa and S. Guobadia (Eds.), *Socio-Economic Reforms in Nigeria -  Essays in Honour of Messrs J. N. Agbonlahor and A. O. Amaye*. All-Nations Press, Benin-City, pp. 20–47. **NIGERIA**
 
 ---
 
@@ -171,7 +171,7 @@ author_profile: true
 
 3\. Frank, E. O. (2016). *Rural Development: Theories, Issues and Practices*. Uyo: Von-Hauz Publishers.
 
-2\. Frank, E. O. (2015). *Political Theory — Foundation of Social Organizations and Government*. Uyo: Robert Minders International Ltd.
+2\. Frank, E. O. (2015). *Political Theory - Foundation of Social Organizations and Government*. Uyo: Robert Minders International Ltd.
 
 1\. Frank, E. O. (2015). *Public Administration: Theories and Practices in Nigeria — A Text for African Universities* (2nd Ed., Revised & Enlarged). Uyo: Robert Minder International Publishers.
 
@@ -181,7 +181,7 @@ author_profile: true
 
 2\. Frank, E. O. (2009). *The Political Sociology of Nigeria — An Analysis of Political Culture and Behaviours*. Uyo: Robert Minder Publishers. 198p.
 
-1\. Frank, E. O. (2007). *Public Administration: Theories and Practices in Nigeria — A Text for African Universities* (1st Ed.). Ethiope Publishers, Benin-City.
+1\. Frank, E. O. (2007). *Public Administration: Theories and Practices in Nigeria - A Text for African Universities* (1st Ed.). Ethiope Publishers, Benin-City.
 
 ---
 

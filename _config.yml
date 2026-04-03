@@ -41,9 +41,9 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Etim-Frank"
+  researchgate     : "https://www.researchgate.net/profile/Etim-Frank-2"
   scopus           : # URL
-  zotero           : # URL
+  worldcat         : "https://www.worldcat.org/search?q=etim+frank"
 
 
   # Repositories and software development

@@ -16,7 +16,7 @@ My academic trajectory spans multiple institutions and disciplines: I earned a B
 
 In addition to my academic responsibilities, I have held several leadership and service roles, including Acting Director of the Clement Isong Centre for Development Studies, membership of the University Senate, and as an External Examiner at the University of Calabar and others. I also engage the public sphere as a commentator and news analyst on Comfort and Atlantic and many other FM Radio in Uyo, and have contributed to national policy discourse through appointments such as membership of the Governing Council of the Federal Polytechnic Ukana-Essien Udim and group of Eminent Persons, the National Institute of Policy and Strategic Studies (NIPSS), Kuru.
 
-My scholarly contributions include the development of the Plantain Theory of Sustainable Development, the clenched fist theory of human rights, the theory of leadership without followership and the MO' Ibrahim Paradigm — original theoretical frameworks that have attracted international scholarly attention across Nigeria, India, China, Austria, Romania, Canada, and the United Kingdom.
+My scholarly contributions include the development of the Plantain Theory of Sustainable Development, the clenched fist theory of human rights, the theory of leadership without followership and the MO' Ibrahim Paradigm, all original theoretical frameworks that have attracted international scholarly attention across Nigeria, India, China, Austria, Romania, Canada, and the United Kingdom.
 
 ## Research Interests
 
@@ -36,19 +36,19 @@ My scholarly contributions include the development of the Plantain Theory of Sus
 | 2016 | Award of Excellence | NADS |
 | 2016 | Excellence Award | NAPGDPS |
 | 2016 | Plaque of Honour | Institute of Corporate Administration |
-| 2017 | Award of Honour | NAPS – Seat of Wisdom Seminary, Owerri |
+| 2017 | Award of Honour | NAPS, Seat of Wisdom Seminary, Owerri |
 | 2018 | Award of Commitment | CESA |
 
 ***
 
 ## National Appointments & Recognition
 
-- **Member**, Governing Council, Federal Polytechnic Ukana-Essien Udim — *Appointed by FGN, 2017–2020*
+- **Member**, Governing Council, Federal Polytechnic Ukana-Essien Udim *(Appointed by FGN, 2017-2020)*
 - **Eminent Person Group**, National Institute of Policy and Strategic Studies (NIPSS), Kuru, Plateau State
-- **External Examiner**, Department of Public Administration, University of Calabar — *2016–2019*
-- **Keynote Speaker**, AKSU International Conference on Development Bottlenecks in the 21st Century — *February 2021*
-- **Acting Director**, Clement Isong Centre for Development Studies, UniUyo — *2014–2017*
-- **Member**, University Senate, University of Uyo — *2014–2016*
+- **External Examiner**, Department of Public Administration, University of Calabar *(2016-2019)*
+- **Keynote Speaker**, AKSU International Conference on Development Bottlenecks in the 21st Century *(February 2021)*
+- **Acting Director**, Clement Isong Centre for Development Studies, UniUyo *(2014-2017)*
+- **Member**, University Senate, University of Uyo *(2014-2016)*
 - **Member**, Akwa Ibom Advisory Committee (AIPAC), Niger Delta Dialogue
 - **Consultant**, Nigerian Labour Congress (NUPENG & PENGASAN Chapters)
 - **Public Affairs Analyst**, Comfort FM & Atlantic FM Radio, Uyo
@@ -62,6 +62,6 @@ My scholarly contributions include the development of the Plantain Theory of Sus
 - **Fellow**, Chartered Institute of Administrators (FCIA)
 - **Fellow**, Chartered Institute of Public Diplomacy and Management (FCIPDM)
 - **Member**, Nigerian Political Science Association (NPSA)
-- **Member**, Nigeria Institute of Management — AMNIM (1991)
-- **Member**, Institute of Personnel Management — ACIPM (1992)
-- **Member**, International Society for Development and Sustainability (ISDS) — Japan
+- **Member**, Nigeria Institute of Management, AMNIM (1991)
+- **Member**, Institute of Personnel Management, ACIPM (1992)
+- **Member**, International Society for Development and Sustainability (ISDS), Japan
