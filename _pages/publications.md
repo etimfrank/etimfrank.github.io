@@ -24,8 +24,11 @@ author_profile: true
 
 ### 2023
 
-44\. Frank, E. O. and Ukpere, W. I. (2023). A Deconstruction of Frustration-Aggression Theory of Political Violence: Nigeria. *Annals of Spiru Haret University — Economic Series*, Vol. 23(2), pp. 117–139. **ROMANIA**
+45\. Frank, E. O. and Ukpere, W. I. (2023). A Deconstruction of Frustration-Aggression Theory of Political Violence: Nigeria. *Annals of Spiru Haret University — Economic Series*, Vol. 23(2), pp. 117–139. **ROMANIA**
 
+44\. Frank, E. O. and Asian, U. I. (2023). Herdsmen-Farmers Crises: Implications for Food Security in Nigeria (1999-2023). *International Journal of Social Sciences*, UNIUYO, Vol. 15, No. 2, July-Dec, pp. 144-154. **NIGERIA**
+
+43\. Frank, E. O. and Udoka, S. Inter-party Carpet-Crossing Among Legislators and Implications for Oversight Functions and Governance in Nigeria. *Global Journal of Political Science and Administration (GJPSA)*, Vol. 11, No. 3, pp. 43-57. [https://doi.org/10.37745/gjpsa.2013](https://doi.org/10.37745/gjpsa.2013) **INTERNATIONAL**
 ### 2022
 
 43\. Frank, E. O. (2022). Urbanization: Gender Equality in Sustaining the Family — The Disconnect. *UNIUYO Journal of Gender Studies in collaboration with IAPAAR*, Vol. 4, pp. 220–233. **NIGERIA**
