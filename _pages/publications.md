@@ -20,7 +20,7 @@ author_profile: true
 
 46\. Frank, E. O. and Ukpere, W. I. (2024). Analysis of ECOWAS Quest for Regime Survival Versus Republic of Niger: Economic and Political Implications. *Annals of Spiru Haret University — Economic Series*, Vol. 24(1), pp. 419–444. [https://doi.org/10.26458/24123](https://doi.org/10.26458/24123) **ROMANIA**
 
-45\. Frank, E. O. (2024). The United Nations and Sustainable Peace Enforcement in the Rwandan Genocide. *AKSU Journal of Social Sciences*, Vol. 4(1), pp. 90–101. [https://doi.org/10.61090/aksujoss.2024.007](https://doi.org/10.61090/aksujoss.2024.007) **NIGERIA**
+46\. Frank, E. O. (2024). The United Nations and Sustainable Peace Enforcement in the Rwandan Genocide. *AKSU Journal of Social Sciences*, Vol. 4(1), pp. 90–101. [https://doi.org/10.61090/aksujoss.2024.007](https://doi.org/10.61090/aksujoss.2024.007) **NIGERIA**
 
 ### 2023
 

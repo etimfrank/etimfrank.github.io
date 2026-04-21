@@ -10,21 +10,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of Public Administration at the University of Uyo, Akwa Ibom State, Nigeria, where I have served as a faculty member since January 2008. I bring over two decades of rigorous scholarship, teaching, and public service to the fields of Political Science, Public Administration, and Development Studies.
+A Professor of Public Administration at the University of Uyo, Akwa Ibom State, Nigeria, where He have served as a faculty member since January 2008. He bring over two decades of rigorous scholarship, teaching, and public service to the fields of Political Science, Public Administration, and Development Studies.
 
-My academic trajectory spans multiple institutions and disciplines: I earned a B.Sc. from the University of Jos (1984), an M.Sc. from the University of Uyo (1997), a Ph.D. from the University of Calabar (2005), and a Postgraduate Diploma in Sustainable Development from the Hebrew University of Jerusalem (2011). This interdisciplinary training has shaped my scholarly engagement with politics, governance, and African development.
+His academic trajectory spans multiple institutions and disciplines: He earned a B.Sc. from the University of Jos (1984), an M.Sc. from the University of Uyo (1997), a Ph.D. from the University of Calabar (2005), and a Postgraduate Diploma in Sustainable Development from the Hebrew University of Jerusalem (2011). This interdisciplinary training has shaped his scholarly engagement with politics, governance, and African development.
 
-In addition to my academic responsibilities, I have held several leadership and service roles, including Acting Director of the Clement Isong Centre for Development Studies, membership of the University Senate, and as an External Examiner at the University of Calabar and others. I also engage the public sphere as a commentator and news analyst on Comfort and Atlantic and many other FM Radio in Uyo, and have contributed to national policy discourse through appointments such as membership of the Governing Council of the Federal Polytechnic Ukana-Essien Udim and group of Eminent Persons, the National Institute of Policy and Strategic Studies (NIPSS), Kuru.
+In addition to his academic responsibilities, He have held several leadership and service roles, including Acting Director of the Clement Isong Centre for Development Studies, membership of the University Senate, and as an External Examiner at the University of Calabar and others. He also engage the public sphere as a commentator and news analyst on Comfort and Atlantic and many other FM Radio in Uyo, and have contributed to national policy discourse through appointments such as membership of the Governing Council of the Federal Polytechnic Ukana-Essien Udim and group of Eminent Persons, the National Institute of Policy and Strategic Studies (NIPSS), Kuru.
 
-My scholarly contributions include the development of the Plantain Theory of Sustainable Development, the clenched fist theory of human rights, the theory of leadership without followership and the MO' Ibrahim Paradigm, all original theoretical frameworks that have attracted international scholarly attention across Nigeria, India, China, Austria, Romania, Canada, and the United Kingdom.
+His scholarly contributions include the development of the Plantain Theory of Sustainable Development, the clenched fist theory of human rights, the theory of leadership without followership and the MO' Ibrahim Paradigm, all original theoretical frameworks that have attracted international scholarly attention across Nigeria, India, China, Austria, Romania, Canada, and the United Kingdom.
 
 ## Research Interests
 
-- **Democracy, Elections & Governance**
-- **Sustainable Development Theory**
-- **Public Administration & Policy**
+- **Public Administration**
+- **Political Theory**
+- **Governance**
 - **African Political Economy**
-- **Security, Conflict & Displacement**
+- **Public Policy**
 
 ***
 
