@@ -23,7 +23,6 @@ His scholarly contributions include the development of the Plantain Theory of Su
 - **Public Administration**
 - **Political Theory**
 - **Governance**
-- **African Political Economy**
 - **Public Policy**
 
 ***
