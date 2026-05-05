@@ -9,20 +9,22 @@ author_profile: true
 {% include base_path %}
 
 ### 2025–2026
+52\. Frank, E. O. and Etim, A. V. (2025). The Role of Trade Unions in Ensuring Job Security and Welfare Benefits: A Case Study of the Nigeria Labour Congress in Akwa Ibom State. *International Journal of Public Relations and Social Sciences (IJPRSS)*, Vol. 1, Issue 1, April 2025. [https://doi.org/10.5281/zenodo.15297519](https://doi.org/10.5281/zenodo.15297519) **NIGERIA**
 
-49\. Frank, E. and Ubeng, E. E. (2026). Globalization: Theoretical Foundation, Contradictions and Implications. *Journal of Economics and Finance Research (JEFR)*.
+51\. Frank, E. and Ubeng, E. E. (2026). Globalization: Theoretical Foundation, Contradictions and Implications. *Journal of Economics and Finance Research (JEFR)*.
 
-48\. Frank, E. O., Ubeng, E. E. and Kimeto, J. C. (2025). Conversion of Public Policy: The Common Challenges of Public Administration in Nigeria. *Journal of Public Administration and Governance*, Vol. 15(2). [https://doi.org/10.5296/jpag.v15i2.23268](https://doi.org/10.5296/jpag.v15i2.23268) **INTERNATIONAL**
+50\. Frank, E. O., Ubeng, E. E. and Kimeto, J. C. (2025). Conversion of Public Policy: The Common Challenges of Public Administration in Nigeria. *Journal of Public Administration and Governance*, Vol. 15(2). [https://doi.org/10.5296/jpag.v15i2.23268](https://doi.org/10.5296/jpag.v15i2.23268) **INTERNATIONAL**
 
-47\. Frank, E. O., Kimeto, J. C. and Enwieme, R. (2025). Representative Bureaucracy and Administrative Discretion: Analytical Challenge in Sub-Saharan Africa. *AKSU Journal of Social Sciences (AKSUJOSS)*, Vol. 6(1), pp. 102–111. [https://doi.org/10.61090/aksujoss.2025.017](https://doi.org/10.61090/aksujoss.2025.017) **NIGERIA**
+49\. Frank, E. O., Kimeto, J. C. and Enwieme, R. (2025). Representative Bureaucracy and Administrative Discretion: Analytical Challenge in Sub-Saharan Africa. *AKSU Journal of Social Sciences (AKSUJOSS)*, Vol. 6(1), pp. 102–111. [https://doi.org/10.61090/aksujoss.2025.017](https://doi.org/10.61090/aksujoss.2025.017) **NIGERIA**
 
 ### 2024
 
-46\. Frank, E. O. and Ukpere, W. I. (2024). Analysis of ECOWAS Quest for Regime Survival Versus Republic of Niger: Economic and Political Implications. *Annals of Spiru Haret University — Economic Series*, Vol. 24(1), pp. 419–444. [https://doi.org/10.26458/24123](https://doi.org/10.26458/24123) **ROMANIA**
+48\. Frank, E. O. and Ukpere, W. I. (2024). Analysis of ECOWAS Quest for Regime Survival Versus Republic of Niger: Economic and Political Implications. *Annals of Spiru Haret University — Economic Series*, Vol. 24(1), pp. 419–444. [https://doi.org/10.26458/24123](https://doi.org/10.26458/24123) **ROMANIA**
 
-46\. Frank, E. O. (2024). The United Nations and Sustainable Peace Enforcement in the Rwandan Genocide. *AKSU Journal of Social Sciences*, Vol. 4(1), pp. 90–101. [https://doi.org/10.61090/aksujoss.2024.007](https://doi.org/10.61090/aksujoss.2024.007) **NIGERIA**
+47\. Frank, E. O. (2024). The United Nations and Sustainable Peace Enforcement in the Rwandan Genocide. *AKSU Journal of Social Sciences*, Vol. 4(1), pp. 90–101. [https://doi.org/10.61090/aksujoss.2024.007](https://doi.org/10.61090/aksujoss.2024.007) **NIGERIA**
 
 ### 2023
+46\. Frank, E. O. and Udoaka, S. P. (2023). Inter-Party Carpet-Crossing Among Legislators and Implications for Oversight Functions and Governance in Nigeria. *Global Journal of Political Science and Administration*, Vol. 11, No. 3, pp. 43–57. European Centre for Research Training and Development. [https://doi.org/10.37745/gjpsa.2013/vol11n34357](https://doi.org/10.37745/gjpsa.2013/vol11n34357) **UK**
 
 45\. Frank, E. O. and Ukpere, W. I. (2023). A Deconstruction of Frustration-Aggression Theory of Political Violence: Nigeria. *Annals of Spiru Haret University — Economic Series*, Vol. 23(2), pp. 117–139. **ROMANIA**
 
