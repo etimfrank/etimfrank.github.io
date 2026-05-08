@@ -41,14 +41,13 @@ His scholarly contributions include the development of the Plantain Theory of Su
 ***
 
 ## National Appointments & Recognition
-
+- **Member**, University Senate, University of Uyo *(2024 - present)*
+- **Member**, Academic Staff Union of University *(2018 - present)*
+- **Member**, Gender and Human Right Committee *(2018 - Present)
 - **Member**, Governing Council, Federal Polytechnic Ukana-Essien Udim *(Appointed by FGN, 2017-2020)*
 - **Eminent Person Group**, National Institute of Policy and Strategic Studies (NIPSS), Kuru, Plateau State
 - **External Examiner**, Department of Public Administration, University of Calabar *(2016-2019)*
 - **Keynote Speaker**, AKSU International Conference on Development Bottlenecks in the 21st Century *(February 2021)* 
-- **Member**, University Senate, University of Uyo *(2024 - present)*
-- **Member**, Academic Staff Union of University *(2018 - present)*
-- **Member**, Gender and Human Right Committee *(2018 - Present)
 - **Acting Director**, Clement Isong Centre for Development Studies, UniUyo *(2014-2017)*
 - **Member**, Akwa Ibom Advisory Committee (AIPAC), Niger Delta Dialogue
 - **Consultant**, Nigerian Labour Congress (NUPENG & PENGASAN Chapters)
