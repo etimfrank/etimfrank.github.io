@@ -26,7 +26,7 @@ author_profile: true
 ### 2023
 46\. Frank, E. O. and Udoaka, S. P. (2023). Inter-Party Carpet-Crossing Among Legislators and Implications for Oversight Functions and Governance in Nigeria. *Global Journal of Political Science and Administration*, Vol. 11, No. 3, pp. 43–57. European Centre for Research Training and Development. [https://doi.org/10.37745/gjpsa.2013/vol11n34357](https://doi.org/10.37745/gjpsa.2013/vol11n34357) **UK**
 
-45\. Frank, E. O. and Ukpere, W. I. (2023). A Deconstruction of Frustration-Aggression Theory of Political Violence: Nigeria. *Annals of Spiru Haret University — Economic Series*, Vol. 23(2), pp. 117–139. **ROMANIA**
+45\. Frank, E. O. and Ukpere, W. I. (2023). A Deconstruction of Frustration-Aggression Theory of Political Violence: Nigeria. *Annals of Spiru Haret University — Economic Series*, Vol. 23(2), pp. 117–139.[https://doi.org/10.26458/2326](https://doi.org/10.26458/2326) **ROMANIA**
 
 44\. Frank, E. O. and Asian, U. I. (2023). Herdsmen-Farmers Crises: Implications for Food Security in Nigeria (1999-2023). *International Journal of Social Sciences*, UNIUYO, Vol. 15, No. 2, July-Dec, pp. 144-154. **NIGERIA**
 
