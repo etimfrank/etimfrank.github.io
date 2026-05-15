@@ -40,7 +40,7 @@ author_profile: true
 ## Civil Society Workshops
 
 ### 2009
-**Participant** - The Role of NGOs in Facilitating Access to the Independent Accountability Mechanisms for Project Affected People
+**Participant**: The Role of NGOs in Facilitating Access to the Independent Accountability Mechanisms for Project Affected People
 - Organiser: NCMG Lagos
 - Date: February 9, 2009
 
