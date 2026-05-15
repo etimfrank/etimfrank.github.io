@@ -58,3 +58,14 @@ author_profile: true
 *De-Cabban Hotel, Port Harcourt. 7th & 8th April, 2022*
 
 ![CHHELD Capacity Training](/images/chheld-training.png)
+
+### 2026
+
+**Panelist/Presenter**: Strengthening Citizen Participation & Peace-Building Towards Nigeria's 2027 Elections
+- Theme: Public Policy Conversation on Women in Local Governance
+- By: Prof Etim Frank, Dept of Public Administration, University of Uyo, Akwa Ibom State
+- Venue: Cedapeg Hotel, Uyo
+- Date: March 27th, 2026
+- Time: 10AM
+
+![Women in Local Governance](/images/Women In local Governance.jpg)
