@@ -59,6 +59,18 @@ author_profile: true
 
 ![CHHELD Capacity Training](/images/chheld-training.png)
 
+### 2025
+
+**Participant** — The Niger Delta Anticorruption Learning Summit
+- Theme: Building Stakeholders' Resilience for Sustained Accountability and Development in the Niger Delta
+- Organised by: SocialAction (Social Development Integrated Centre)
+- Sponsored by: MacArthur Foundation
+- Venue: Golden Tulip Hotel, Stadium Road, Port Harcourt
+- Date: 27th May, 2025
+- Time: 10AM WAT
+
+![Niger Delta Anticorruption Learning Summit](/images/niger-delta-summit.jpg)
+
 ### 2026
 
 **Panelist/Presenter**: Strengthening Citizen Participation & Peace-Building Towards Nigeria's 2027 Elections
@@ -69,3 +81,4 @@ author_profile: true
 - Time: 10AM
 
 ![Women in Local Governance](/images/women-local-governance.jpg)
+
