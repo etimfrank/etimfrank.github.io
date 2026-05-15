@@ -37,7 +37,7 @@ author_profile: true
 
 ***
 
-## NGO & Civil Society Workshops
+## Civil Society Workshops
 
 ### 2009
 
@@ -45,16 +45,16 @@ author_profile: true
 - Organiser: NCMG Lagos
 - Date: February 9, 2009
 
-### Civil Society & Capacity Building
+### Capacity Building
 
-**Niger Delta Dialogue — Strategic Communications Training**
+**Niger Delta Dialogue: Strategic Communications Training**
 *Watbridge Hotel, Uyo, Akwa Ibom State. 18th – 20th August, 2020*
 
 ![Niger Delta Dialogue Strategic Communications Training](/images/ndd-training.jpg)
 
 ***
 
-**CHHELD Capacity Training — Improving Citizen's Participation in Local Government**
+**CHHELD Capacity Training: Improving Citizen's Participation in Local Government**
 *De-Cabban Hotel, Port Harcourt. 7th & 8th April, 2022*
 
 ![CHHELD Capacity Training](/images/chheld-training.jpg)
