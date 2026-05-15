@@ -68,4 +68,4 @@ author_profile: true
 - Date: March 27th, 2026
 - Time: 10AM
 
-![Women in Local Governance](/images/Women In local Governance.jpg)
+![Women in Local Governance](/images/women-local-governance.jpg)
