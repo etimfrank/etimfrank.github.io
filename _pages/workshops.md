@@ -82,7 +82,7 @@ author_profile: true
 
 ![Women in Local Governance](/images/women-local-governance.jpg)
 
-**Participant** — Niger Delta Alternatives Convergence
+**Participant**: Niger Delta Alternatives Convergence
 - Theme: Restoring the Environment and Reclaiming the Dignity of a People
 - Website: [www.ndac.africa](http://www.ndac.africa)
 - Date: May 2026
