@@ -63,7 +63,7 @@ author_profile: true
 
 **Participant**: The Niger Delta Anticorruption Learning Summit
 - Theme: Building Stakeholders' Resilience for Sustained Accountability and Development in the Niger Delta
-- Organised by: SocialAction (Social Development Integrated Centre)
+- Organised by: Social Action (Social Development Integrated Centre)
 - Sponsored by: MacArthur Foundation
 - Venue: Golden Tulip Hotel, Stadium Road, Port Harcourt
 - Date: 27th May, 2025
