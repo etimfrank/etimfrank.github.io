@@ -61,7 +61,7 @@ author_profile: true
 
 ### 2025
 
-**Participant** — The Niger Delta Anticorruption Learning Summit
+**Participant**: The Niger Delta Anticorruption Learning Summit
 - Theme: Building Stakeholders' Resilience for Sustained Accountability and Development in the Niger Delta
 - Organised by: SocialAction (Social Development Integrated Centre)
 - Sponsored by: MacArthur Foundation
