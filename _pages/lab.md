@@ -22,7 +22,7 @@ If you are interested in working with me, feel free to reach out via email at ok
 
 **Dominic Williams**
 
-<img src="/images/dominic-williams.png" alt="Dominic Williams" style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+<img src="/images/dominic-williams.png" alt="Dominic Williams" style="width:150px; height:150px; border-radius:8px; object-fit:cover;">
 
 - Research Interests: Public Policy, Public Administration, Administrative Capacity, Policy Implementation
 - Email: dominicwilliamad@gmail.com
