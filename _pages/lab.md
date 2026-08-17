@@ -20,4 +20,9 @@ If you are interested in working with me, feel free to reach out via email at ok
 
 ## Research Assistant
 
-- Dominic Williams
+**Dominic Williams**
+
+![Dominic Williams](/images/profile picture.jpg)
+
+- **Research Interests:** Public Policy, Public Administration, Administrative Capacity, Policy Implementation
+- **Email:** dominicwilliamad@gmail.com
