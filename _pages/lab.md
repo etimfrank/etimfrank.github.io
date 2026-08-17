@@ -22,7 +22,7 @@ If you are interested in working with me, feel free to reach out via email at ok
 
 **Dominic Williams**
 
-![Dominic Williams](/images/profile picture.jpg)
+![Dominic Williams](/images/dominic-williams.png)
 
-- **Research Interests:** Public Policy, Public Administration, Administrative Capacity, Policy Implementation
-- **Email:** dominicwilliamad@gmail.com
+- Research Interests: Public Policy, Public Administration, Administrative Capacity, Policy Implementation
+- Email: dominicwilliamad@gmail.com
