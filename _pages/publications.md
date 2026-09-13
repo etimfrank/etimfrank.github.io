@@ -9,6 +9,8 @@ author_profile: true
 {% include base_path %}
 
 ### 2025–2026
+53\. Frank, E. O. and Ubeng, E. E. (2026). Benevolent Dictatorship: An Alternative Development Strategy for African States. *International Journal of Social Science and Economic Research (IJSSER)*, Vol. 11, Issue 8, Article No. 267, pp. 4162–4187. DOI: [10.46609/IJSSER.2026.v11i08.049](https://ijsser.org/more2026.php?id=267) **INTERNATIONAL**
+
 52\. Frank, E. O. and Etim, A. V. (2025). The Role of Trade Unions in Ensuring Job Security and Welfare Benefits: A Case Study of the Nigeria Labour Congress in Akwa Ibom State. *International Journal of Public Relations and Social Sciences (IJPRSS)*, Vol. 1, Issue 1, April 2025. [https://doi.org/10.5281/zenodo.15297519](https://doi.org/10.5281/zenodo.15297519) **NIGERIA**
 
 51\. Frank, E. and Ubeng, E. E. (2026). Globalization: Theoretical Foundation, Contradictions and Implications. *Journal of Economics and Finance Research (JEFR)*.
@@ -209,7 +211,5 @@ author_profile: true
 ---
 
 ## Forthcoming Papers
-
-- Frank, E. O. Benevolent Dictatorship: The Alternative Development Strategy for Africa. *(In Press)*
 
 - Frank, E. O. Leadership without Followership: The Deontology. *(In Press)*

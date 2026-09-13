@@ -7,6 +7,17 @@ author_profile: true
 
 ## Conference Papers Presented
 
+**Guest Speaker** — Governance in Nigeria Since 2015 and Growth Trajectory to Date
+- Organised by: Prof. Akpan Hogan Ekpo Centre for Public Policy (AHECPP), University of Uyo
+- Event: AHECPP National Dialogue on "The State of the Nigerian Economy" — Birth Anniversary of Emeritus Professor Akpan Hogan Ekpo
+- [View Presentation Slides](https://docs.google.com/presentation/d/1IxHmpDdd6K4ArCOjQCewQfLacA8B6QNZvXDUgcaQi-U/edit?usp=sharing)
+
+**Guest Lecturer** — Environment of Public Policy: Nigeria and Her Neighbours: New Regional Dynamics, New Policy Responses
+- Organised by: SIMI Strategic Intelligence Management Institute
+- Event: Leadership and Management Cluster (SIMC-2)
+- Date: 17th August 2026, 10:00 – 11:30hrs
+- [View Presentation Slides](https://docs.google.com/presentation/d/1GUKxS7alriEW5sqtt8gCJn5nhLqe-gZ8/edit?usp=sharing)
+
 - Frank, E. O. (2023). Building Trade Union Resilience for the Emerging Challenges and Opportunities in the World of Work. NLC 2023 Rain School Session, 17–21 July, NLC Solidarity Secretariat, Atan Offot, Uyo.
 
 - Frank, E. O. (2019). Human Resources Metric. Paper presented to Management Trainees of Dangote's Refinery, Lekki, Lagos, April 16–19.
